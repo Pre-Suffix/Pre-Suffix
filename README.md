@@ -1,7 +1,7 @@
-# Welcome to my profile!
-**I am a Brazilian younglin who does programming stuff every so often, such as**
+# Hello there!
+> About me:
+- 🎓 18yr old Brazilian Compsci student
+- ✈️ Aviation geek
+- 🤖 Developer of [SuffX Bot for Discord](https://github.com/Pre-Suffix/suffx)
 
-### [SuffX Bot, for Discord](https://github.com/Pre-Suffix/SuffX)
-![](https://i.imgur.com/abIqeK8.png)
-
-#### And that's pretty much it, for now...
+And that's about it! Feel free to contact me via [e-mail](mailto:contato@presuffix.net)
